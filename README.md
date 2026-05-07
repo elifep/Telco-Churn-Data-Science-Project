@@ -163,3 +163,4 @@ Model eğitildikten sonra `models/metrics.json` dosyasında şu metrikler yer al
 - API'ye `customerID` ve `Churn` gönderilmez.
 - API input kolonları eğitimde kullanılan kolonlarla aynı tutulmuştur.
 - Veri ön işleme aşamaları ve Random Forest modeli, kullanım kolaylığı için tek bir Pipeline olarak kaydedilmiştir.
+My contribution
