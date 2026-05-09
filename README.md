@@ -2,6 +2,9 @@
 
 Bu proje, Telco Customer Churn veri seti üzerinde müşteri kaybı tahmini yapan bir makine öğrenmesi modeli ve bu modeli kullanan basit bir FastAPI servisinden oluşur.
 
+## Screenshot
+![Screenshot](screenshots/churn_ui.png)
+
 ## Proje Amacı
 
 Amaç, bir telekom müşterisinin hizmeti bırakıp bırakmayacağını (`Churn`) tahmin etmektir. Problem ikili sınıflandırma problemidir:
